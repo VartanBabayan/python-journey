@@ -3,7 +3,7 @@ import fractals
 
 
 if __name__ == '__main__':
-    t = turtle.Turtle()
+    # t = turtle.Turtle()
     # triangle = fractals.SierpinskiTriangle(t)
     # triangle.drawSierpinski()
     #
@@ -16,5 +16,5 @@ if __name__ == '__main__':
     # fern.drawBarnsleyFern()
     # t.showturtle()
 
-    snowflake = fractals.Kochsnowflake(t)
-    snowflake.drawKochSnowflake()
+    # snowflake = fractals.Kochsnowflake(t)
+    # snowflake.drawKochSnowflake()
